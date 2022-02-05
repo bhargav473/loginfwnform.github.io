@@ -1,32 +1,27 @@
-
-
 /*
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
-
-
 /* 
     Created on : 4 Feb, 2022, 12:25:38 PM
     Author     : fwcbn
 */
-
 * {
-	margin: 0;
-	padding: 0;
-}
+  margin: 0;
+  padding: 0; }
 
 .bg-color {
-	background-color: #16223e;
-	padding-top: 15px;
-	padding-bottom: 30px;
-}
+  background-color: #16223e;
+  padding-top: 15px;
+  padding-bottom: 30px; }
 
 .wappr {
-	width: 90%;
-	margin: 0 auto;
-}
+  width: 90%;
+  margin: 0 auto; }
+
+
+
 
 .t-m ul {
   list-style: none;
@@ -41,205 +36,161 @@ and open the template in the editor.
 }
 
 .pointer {
-	cursor: pointer;
-}
+  cursor: pointer; }
 
 .t-m ul li:hover {
-	transform: scale(1.1);
-	transition: 0.3s;
-}
+  transform: scale(1.1);
+  transition: 0.3s; }
 
 .navs ul {
-	margin-top: 8px;
-	color: white;
-}
+  margin-top: 8px;
+  color: white; }
 
 .c-bg h2 {
-	color: white;
-	font-weight: bold;
-}
+  color: white;
+  font-weight: bold; }
 
 .reg-form h2 {
-	font-weight: bold;
-	margin-bottom: 5px;
-}
-
-
-
+  font-weight: bold;
+  margin-bottom: 5px; }
 .a-link a{
   text-decoration: none;
   color:#16223e;
 }
 .box-sty {
-	background: white;
-	padding: 20px;
-	border-radius: 12px !important;
-	padding: 30px;
-	margin-top: -210px;
-	padding-bottom: 50px;
-	padding-top: 50px;
-}
+  background: white;
+  padding: 20px;
+  border-radius: 12px !important;
+  padding: 30px;
+  margin-top: -210px;
+  padding-bottom: 50px;
+  padding-top: 50px; }
 
 .box-p {
-	font-size: 12px;
-	margin-top: 2px;
-}
+  font-size: 12px;
+  margin-top: 2px; }
 
 .reg-form .form-control {
-	border-radius: 5px !important;
-	background-color: #ccc !important;
-	border: none !important;
-	color: #000 !important;
-	padding: 5px !important;
-	margin-bottom: 20px;
-}
+  border-radius: 5px !important;
+  background-color: #ccc !important;
+  border: none !important;
+  color: #000 !important;
+  padding: 5px !important;
+  margin-bottom: 20px; }
 
 .reg-form .form-check {
-	display: inline-block !important;
-	padding-right: 10px;
-}
+  display: inline-block !important;
+  padding-right: 10px; }
 
 .box-p2 {
-	margin-top: 25px;
-	font-size: 14px;
-}
+  margin-top: 25px;
+  font-size: 14px; }
 
 .box-p2 button {
-	padding: 0.25rem 1.3rem !important;
-}
+  padding: 0.25rem 1.3rem !important; }
 
 .b-sty {
-	background-color: #16223e !important;
-	border-radius: 10px !important;
-}
+  background-color: #16223e !important;
+  border-radius: 10px !important; }
 
 .main-box {
-	padding: 20px;
-	background-color: white;
-	width: 155px;
-	margin-top: 80px !important;
-	border: 1px solid lightgray;
-	border-radius: 10px;
-	margin-right: 10px !important;
-	display: inline-block;
-}
+  padding: 20px;
+  background-color: white;
+  width: 155px;
+  margin-top: 80px !important;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  margin-right: 10px !important;
+  display: inline-block; }
 
 .main-box .text-b {
-	margin-top: 15px;
-	text-align: center;
-	color: #a6aab1;
-}
+  margin-top: 15px;
+  text-align: center;
+  color: #a6aab1; }
 
 .text-b p {
-	font-size: 12px;
-}
+  font-size: 12px; }
 
 .circle {
-	margin-bottom: 10px;
-	margin: 0 auto;
-	width: 90px;
-	height: 90px;
-	border-radius: 58px;
-}
+  margin-bottom: 10px;
+  margin: 0 auto;
+  width: 90px;
+  height: 90px;
+  border-radius: 58px; }
 
 .user-image1 {
-	background-image: url(../img/p1.png);
-	background-size: cover;
-	background-repeat: no-repeat;
-}
+  background-image: url(../img/p1.png);
+  background-size: cover;
+  background-repeat: no-repeat; }
 
 .user-image2 {
-	background-image: url(../img/p2.png);
-	background-size: cover;
-	background-repeat: no-repeat;
-}
+  background-image: url(../img/p2.png);
+  background-size: cover;
+  background-repeat: no-repeat; }
 
 .user-image3 {
-	background-image: url(../img/ad.png);
-	background-size: cover;
-	background-repeat: no-repeat;
-}
+  background-image: url(../img/ad.png);
+  background-size: cover;
+  background-repeat: no-repeat; }
 
 .profile-card {
-	margin-top: 23px;
-	text-align: center;
-}
+  margin-top: 23px;
+  text-align: center; }
 
 .text-b {
-	margin-top: 15px;
-	text-align: center;
-	color: #a6aab1;
-}
-
-.text-b h6 {
-	margin: 0px;
-	font-size: 14px;
-}
+  margin-top: 15px;
+  text-align: center;
+  color: #a6aab1; }
+  .text-b h6 {
+    margin: 0px;
+    font-size: 14px; }
 
 .text-b p {
-	font-size: 11px;
-}
+  font-size: 11px; }
 
 .card-1 {
-	width: 16%;
-	border: 1px solid lightgrey;
-	padding: 5px;
-	display: inline-block;
-	margin-right: 4px;
-	border-radius: 10px;
-}
+  width: 16%;
+  border: 1px solid lightgrey;
+  padding: 5px;
+  display: inline-block;
+  margin-right: 4px;
+  border-radius: 10px; }
 
 .top-line {
-	margin-top: 10px;
-	border-top: 2px solid lightgray;
-	padding-top: 20px;
-	padding-bottom: 20px;
-}
+  margin-top: 10px;
+  border-top: 2px solid lightgray;
+  padding-top: 20px;
+  padding-bottom: 20px; }
 
 .b-l {
-	border-top: 2px solid lightgray;
-	padding-top: 20px;
-	padding-bottom: 20px;
-}
+  border-top: 2px solid lightgray;
+  padding-top: 20px;
+  padding-bottom: 20px; }
 
 .footer p {
-	color: #a6aab1;
-	margin-bottom: 0px;
-}
+  color: #a6aab1;
+  margin-bottom: 0px; }
 
 .p-img img {
-	padding-top: 10px;
-}
+  padding-top: 10px; }
 
 .social-icon img {
-	margin-left: 20px;
-}
+  margin-left: 20px; }
 
 .m-v {
-	display: none;
-	margin-top: 225px;
-}
-
-@media only screen and (min-width: 30.0625em) and (max-width: 40em) {
-	.m-v {
-		display: block;
-	}
-}
+  display: none;
+  margin-top: 225px; }
+  @media only screen and (min-width: 30.0625em) and (max-width: 40em) {
+    .m-v {
+      display: block; } }
 
 @media screen and (min-width: 320px) and (max-width: 900px) {
-	.reg-form {
-		margin-top: 200px;
-	}
-}
+  .reg-form {
+    margin-top: 200px; } }
 
 .modal-body .hight-o {
-	margin-top: 210px !important;
-}
-
+  margin-top: 210px !important; }
 .modal-body .box-sty {
-	padding-top: 0px !important;
-}
-
+  padding-top: 0px !important; }
 
 /*# sourceMappingURL=style.css.map */
-
